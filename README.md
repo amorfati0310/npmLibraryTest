@@ -1,0 +1,2 @@
+# npmLibraryTest
+test
